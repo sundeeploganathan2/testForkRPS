@@ -5,9 +5,13 @@ adding line from main repo to check in local
 adding a new change on main repo.
 adding extra line on main repo
 <<<<<<< HEAD
+<<<<<<< HEAD
 adding extra line from main repos main branch.
 edited file in forked repo.
 
 adding line from local repo
 =======
 >>>>>>> ea6bbfe (Update test.yaml)
+=======
+adding extar line from local repos local branch.
+>>>>>>> 4cda47f (adding line from laptops localbranch)
