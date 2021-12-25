@@ -7,6 +7,7 @@ adding extra line on main repo
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 adding extra line from main repos main branch.
 edited file in forked repo.
 
@@ -33,3 +34,10 @@ adding line from local repo
 
 adding line from local repo
 >>>>>>> ad77ae0 (adding new line from localbranch)
+=======
+adding extar line from local repos local branch.
+adding extra line from main repos main branch.
+edited file in forked repo.
+
+adding line from local repo
+>>>>>>> fd772d7321b6ef0cea7e2327b0900ecc9e03dabf
