@@ -23,8 +23,13 @@ adding extra line from main repos main branch.
 =======
 edited file in forked repo.
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 1f5e9ad (Update test.yaml)
 =======
 
 adding line from local repo
 >>>>>>> 071d3e7 (chnaged the commit message - adding new line from localbranch)
+=======
+
+adding line from local repo
+>>>>>>> ad77ae0 (adding new line from localbranch)
